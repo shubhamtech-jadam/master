@@ -44,3 +44,5 @@
 !/var/package/*.xml
 
 *.txt
+
+check-add.txt
